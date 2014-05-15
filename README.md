@@ -8,5 +8,6 @@ The Project is aiming to create a web Portal where People of India can report th
    Interested people can Mail your suggestion to my email id stndlkr200@gmail.com.
    You can help any way out including structure of App to best way to tackle  Problem.
   
-   Wiki:  http://wiki.codeforindia.org/new-projects/report-and-track-corruption/
+   Repo Wiki: https://github.com/code-for-india/Report-Track-Corruption/wiki/Report-&-Track-Corruption-in-India  
+   Project wiki: http://wiki.codeforindia.org/new-projects/report-and-track-corruption/
    
